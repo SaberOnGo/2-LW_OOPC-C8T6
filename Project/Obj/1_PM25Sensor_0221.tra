@@ -1,0 +1,88 @@
+*** Creating Trace Output File '.\Obj\1_PM25Sensor_0221.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_pwr.o"'
+### List of Objects: adding '".\obj\stm32f10x_flash.o"'
+### List of Objects: adding '".\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\obj\stm32f10x_adc.o"'
+### List of Objects: adding '".\obj\stm32f10x_bkp.o"'
+### List of Objects: adding '".\obj\stm32f10x_can.o"'
+### List of Objects: adding '".\obj\stm32f10x_cec.o"'
+### List of Objects: adding '".\obj\stm32f10x_crc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dac.o"'
+### List of Objects: adding '".\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\application.o"'
+### List of Objects: adding '".\obj\timermanager.o"'
+### List of Objects: adding '".\obj\sdrr.o"'
+### List of Objects: adding '".\obj\f10x_flash_if.o"'
+### List of Objects: adding '".\obj\delay.o"'
+### List of Objects: adding '".\obj\lcd1602_drv.o"'
+### List of Objects: adding '".\obj\my_debug.o"'
+### List of Objects: adding '".\obj\os_global.o"'
+### List of Objects: adding '".\obj\os_timer.o"'
+### List of Objects: adding '".\obj\pm25sensor.o"'
+### List of Objects: adding '".\obj\key_drv.o"'
+### List of Objects: adding '".\obj\led_drv.o"'
+### List of Objects: adding '".\obj\uart_queue.o"'
+### List of Objects: adding '".\obj\uart_drv.o"'
+### List of Objects: adding '".\obj\rom_flash_interface.o"'
+### List of Objects: adding '".\obj\sd_card_interface.o"'
+### List of Objects: adding '".\obj\spi_flash_interface.o"'
+### List of Objects: adding '".\obj\dht11.o"'
+### List of Objects: adding '".\obj\stm32f1_temp_sensor.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '".\obj\bsp.o"'
+### List of Objects: adding '".\obj\sfud_port.o"'
+### List of Objects: adding '".\obj\sfud.o"'
+### List of Objects: adding '".\obj\sfud_sfdp.o"'
+### List of Objects: adding '".\obj\sfud_demo.o"'
+### List of Objects: adding '".\obj\usbapp.o"'
+### List of Objects: adding '".\obj\disk_image.o"'
+### List of Objects: adding '".\obj\hw_config.o"'
+### List of Objects: adding '".\obj\mass_mal.o"'
+### List of Objects: adding '".\obj\memory.o"'
+### List of Objects: adding '".\obj\scsi_data.o"'
+### List of Objects: adding '".\obj\usb_bot.o"'
+### List of Objects: adding '".\obj\usb_desc.o"'
+### List of Objects: adding '".\obj\usb_endp.o"'
+### List of Objects: adding '".\obj\usb_istr.o"'
+### List of Objects: adding '".\obj\usb_prop.o"'
+### List of Objects: adding '".\obj\usb_pwr.o"'
+### List of Objects: adding '".\obj\usb_scsi.o"'
+### List of Objects: adding '".\obj\usb_core.o"'
+### List of Objects: adding '".\obj\usb_init.o"'
+### List of Objects: adding '".\obj\usb_int.o"'
+### List of Objects: adding '".\obj\usb_mem.o"'
+### List of Objects: adding '".\obj\usb_regs.o"'
+### List of Objects: adding '".\obj\usb_sil.o"'
+### List of Objects: adding '".\obj\diskio.o"'
+### List of Objects: adding '".\obj\fatfs_demo.o"'
+### List of Objects: adding '".\obj\ff.o"'
+### List of Objects: adding '".\obj\ccsbcs.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\misc.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_fsmc.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_pwr.o" ".\obj\stm32f10x_flash.o" ".\obj\stm32f10x_iwdg.o" ".\obj\stm32f10x_spi.o" ".\obj\stm32f10x_adc.o" ".\obj\stm32f10x_bkp.o" ".\obj\stm32f10x_can.o" ".\obj\stm32f10x_cec.o" ".\obj\stm32f10x_crc.o" ".\obj\stm32f10x_dac.o" ".\obj\stm32f10x_dma.o" ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\application.o" ".\obj\timermanager.o" ".\obj\sdrr.o" ".\obj\f10x_flash_if.o" ".\obj\delay.o" ".\obj\lcd1602_drv.o" ".\obj\my_debug.o" ".\obj\os_global.o" ".\obj\os_timer.o" ".\obj\pm25sensor.o" ".\obj\key_drv.o" ".\obj\led_drv.o" ".\obj\uart_queue.o" ".\obj\uart_drv.o" ".\obj\rom_flash_interface.o" ".\obj\sd_card_interface.o" ".\obj\spi_flash_interface.o" ".\obj\dht11.o" ".\obj\stm32f1_temp_sensor.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" ".\obj\startup_stm32f10x_md.o" ".\obj\bsp.o" ".\obj\sfud_port.o" ".\obj\sfud.o" ".\obj\sfud_sfdp.o" ".\obj\sfud_demo.o" ".\obj\usbapp.o" ".\obj\disk_image.o" ".\obj\hw_config.o" ".\obj\mass_mal.o" ".\obj\memory.o" ".\obj\scsi_data.o" ".\obj\usb_bot.o" ".\obj\usb_desc.o" ".\obj\usb_endp.o" ".\obj\usb_istr.o" ".\obj\usb_prop.o" ".\obj\usb_pwr.o" ".\obj\usb_scsi.o" ".\obj\usb_core.o" ".\obj\usb_init.o" ".\obj\usb_int.o" ".\obj\usb_mem.o" ".\obj\usb_regs.o" ".\obj\usb_sil.o" ".\obj\diskio.o" ".\obj\fatfs_demo.o" ".\obj\ff.o" ".\obj\ccsbcs.o" --library_type=microlib --feedback ".\Obj\1_PM25Sensor_0221.fed" 
+--strict --scatter ".\Obj\1_PM25Sensor_0221.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\List\1_PM25Sensor_0221.map" -o .\Obj\1_PM25Sensor_0221.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\1_PM25Sensor_0221.axf'
+### ADS-LD Command File: '.\Obj\1_PM25Sensor_0221.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\1_PM25Sensor_0221.lnp', Handle=0x000005BC
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\1_PM25Sensor_0221.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
